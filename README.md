@@ -7,11 +7,17 @@ Há um título da página, "Desenhando com CSS", e a folha de estilo style.css �
 Estilos CSS:
 
 body: Estiliza o fundo com cor navy e centraliza o conteúdo usando flexbox.
+
 container: Um contêiner flexível que posiciona o foguete.
+
 foguete: Desenha um foguete com cores e formas estilizadas usando bordas arredondadas e uma janela central.
+
 asa: Cria asas para o foguete com sombras e bordas arredondadas.
+
 detalhe-asa e asa-meio: Detalham as asas com cores e transformações.
+
 chama: Adiciona uma chama animada na parte inferior do foguete.
+
 Animações: Inclui uma animação @keyframes ignite que faz o foguete girar e se mover com uma sombra dourada.
 Interatividade:
 O foguete é animado quando o usuário passa o mouse sobre a página (body:hover .container), disparando a animação.
