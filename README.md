@@ -1,4 +1,4 @@
-Neste desafio criado pela aula de softskill, do curso Vai na Web, com a desenvolvedora de front-end Natalia, ela ensina como criar desenhos animados com CSS. 
+
 
 Aula muito enriquecedora! 💕
 
