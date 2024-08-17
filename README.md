@@ -1,4 +1,4 @@
-Neste desafio criado pela aula de softskiil, do curso Vai na Web, com a desenvolvedora de front-end Natalia ela ensina como criar desenhos animados com CSS. 
+Neste desafio criado pela aula de softskill, do curso Vai na Web, com a desenvolvedora de front-end Natalia, ela ensina como criar desenhos animados com CSS. 
 
 Aula muito enriquecedora! 💕
 
@@ -14,7 +14,6 @@ detalhe-asa e asa-meio: Detalham as asas com cores e transformações.
 chama: Adiciona uma chama animada na parte inferior do foguete.
 Animações: Inclui uma animação @keyframes ignite que faz o foguete girar e se mover com uma sombra dourada.
 Interatividade:
-
 O foguete é animado quando o usuário passa o mouse sobre a página (body:hover .container), disparando a animação.
 Outros detalhes:
 
